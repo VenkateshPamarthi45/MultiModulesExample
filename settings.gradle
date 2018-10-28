@@ -1,1 +1,1 @@
-include ':app', ':jokes_generator_lib', ':androidCommonlib'
+include ':app', ':backend', ':joke_generator_lib', ':commonviews'
